@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>About</h1>
 <p></p>This website is about an inventory system management specifically made for (FnB) food and beverage sector</p>
 <p>We made this for school project (PBL) under subject SPG 4703</p>
@@ -9,3 +10,7 @@
 <h1>Author</h1>
 <p>Class: DCBS6/ Semester 3</p>
 <p>Group: Kacip Pipol</p>
+=======
+# WeLoveBunsPHP
+made with love and php lmao
+>>>>>>> 688cfe8ef05f5d4527f2be9f8274dec2f21715df
